@@ -25,4 +25,4 @@ Time Taken to Deploy Using QuickNode: 11.381 seconds
 Time Taken to Deploy Using Infura: 18.241 seconds
 
 ## Conclusion
-Using Quicknode is drastically faster at deployment nearly 38% more than other.
+Using Quicknode is drastically faster at deployment nearly 38% more than the other.
