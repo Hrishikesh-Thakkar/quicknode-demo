@@ -20,7 +20,7 @@ This project demonstrates a basic Faucet Contract which has time restrictions to
 4. Add API_KEY and GOERLI_PRIVATE_KEY in .env file
 ```
 ## Contract Address
-Contract Deployed At: 0x65930D7192497aBA7424c739A44B32D099A23D25 (Goerli)  
+Contract Deployed At: [0x65930D7192497aBA7424c739A44B32D099A23D25](https://goerli.etherscan.io/address/0x65930D7192497aBA7424c739A44B32D099A23D25) (Goerli)  
 Time Taken to Deploy Using QuickNode: 11.381 seconds  
 Time Taken to Deploy Using Infura: 18.241 seconds
 
